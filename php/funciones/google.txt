@@ -1,0 +1,1892 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head><meta http-equiv="Content-Language" content="EN" /><meta http-equiv="Content-Type" content="UTF-8" /><meta name="author" content="info@bestbetting.com" /><link href="http://cdn1.resources.bestbetting.com/default/images/favicon.ico" rel="shortcut icon" /><meta name="keywords" content="Odds Comparison, Live Betting Odds, In Running Betting Odds, Bookmaker Comparisons, Premiership, Premier league Live Betting Odds, Asian Handicap Odds" /><meta name="description" /><meta name="robots" content="FOLLOW,INDEX" /><link href="http://cdn3.resources.bestbetting.com/default/css/core.css?89" rel="stylesheet" type="text/css" /><link href="http://cdn3.resources.bestbetting.com/com.bestbetting.football-data/css/style.css?89" rel="stylesheet" type="text/css" /><link href="http://cdn3.resources.bestbetting.com/default/css/coupon.css?89" rel="stylesheet" type="text/css" /><link href="http://cdn3.resources.bestbetting.com/default/css/odds.css?89" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/djs/localiser/en?89"></script>
+<script type="text/javascript" src="http://cdn4.resources.bestbetting.com/default/javascript/Betgenius_core.js?89"></script>
+<script type="text/javascript" src="http://cdn4.resources.bestbetting.com/default/javascript/odds_core.js?89"></script>
+<script type="text/javascript" src="http://cdn4.resources.bestbetting.com/default/javascript/coupon.js?89"></script>
+<link href="http://cdn3.resources.bestbetting.com/com.bestbetting.football-data/css/core-2.css?89" rel="stylesheet" type="text/css" /><title>
+	Football Data > Football > European Leagues > Germany > Bundesliga > 2018-2019
+</title></head>
+	<body>
+	    <table id="siteContainer" cellpadding="0" cellspacing="0" summary="Football-Data.co.uk">
+	        <tr>
+	            <td>
+				
+					<div id="headerContainer">
+					<div id="clockPanel"><span id="serverTime">Tue 23, October 2018 05:37:44</span>BST</div>
+					<form action="#" id="oddsSearch" method="get">
+							<div id="searchContainer">
+								<input class="formfield" type="text" value="Find your bet here..." size="26" name="search" id="search" />
+								<input class="formSearch" type="submit" value="SEARCH" />
+							</div>
+						</form>
+                        <div id="container">
+							<table style="margin: 0 auto" border="0" cellpadding="0" cellspacing="0" width="800">
+								<tbody>
+									<tr>
+										<td align="left"><a href="http://www.football-data.co.uk/index.php" target="_blank"><img src="http://www.football-data.co.uk/logo2.jpg" alt="Football Betting - Football Results - Free Bets" style="border: none"></a></td>
+										<td align="right"></td>
+									</tr>
+									<tr>
+										<td style="height: 14px" valign="top">
+                                <select onchange="location=this.options[this.selectedIndex].value;" style="font-family: 'Verdana'; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 7pt;">
+									<option>Network Sites</option>
+									<option></option>
+									<option value="http://livescore.football-data.co.uk">Football Livescore</option>
+									<option value="http://betting.football-data.co.uk">Betting Guide</option>
+									<option value="http://freebets.football-data.co.uk">Free Bets</option>
+									<option value="http://www.1x2betting.co.uk">Soccer Betting Tips</option>
+									<option value="http://odds.football-data.co.uk/">Odds Comparison</option>
+									<option value="http://news.football-data.co.uk">Football News</option>
+									<option value="http://www.tennis-data.co.uk">Tennis Betting</option>
+									<option value="http://www.sports-tispters.co.uk">Sports Tispters</option>
+									<option value="http://www.betting-books.co.uk">Betting Books</option>
+									<option value="http://casino.football-data.co.uk">Free Casino Bonuses</option>
+									<option value="http://poker.football-data.co.uk">Free Poker Bonuses</option>
+                                </select>
+                            </td><td style="text-align: right; height: 14px" valign="top">
+                            <span style="font-size: small">Sports betting odds comparison | <a href="http://www.football-data.co.uk/disclaimer.php">Legal</a></span><img src="http://www.football-data.co.uk/banner/18.gif" style="margin-top:-5px" />
+                            </td></tr>
+                            </tbody></table>
+
+                            <table style="margin: 0 auto; background-color: #999999; border: 0" cellpadding="1" cellspacing="1" width="800">
+                                <tbody><tr>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.football-data.co.uk/index.php">Home</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://livescore.football-data.co.uk/">Livescore</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://betting.football-data.co.uk">Betting</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://news.football-data.co.uk">News</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.sports-tipsters.co.uk/" target="_blank">Tipsters</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://odds.football-data.co.uk/">Odds</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://freebets.football-data.co.uk/">Free Bets</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.1x2betting.co.uk/" target="_blank">Tips</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://casino.football-data.co.uk/">Casino</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://poker.football-data.co.uk/">Poker</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.tennis-data.co.uk/" target="_blank">Tennis</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.betting-books.co.uk/" target="_blank">Books</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a rel="nofollow" href="http://www.punterslounge.com/" target="_blank">Forum</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="#" onmouseover="menuLayers.show('menu1', event)" onmouseout="menuLayers.hide()">Links</a></b></div></td>
+                                    <td align="center" style="background-color: #f3f3f3"><div class="header"><b><a href="http://www.football-data.co.uk/contact.php">Contact</a></b></div></td>
+                                </tr>
+                            </tbody></table>
+
+                            <!-- Here are the menu1 layers. Give each a unique id and a class of menu   -->
+                            <div id="menu1" class="menu">
+                                <a href="http://www.football-data.co.uk/contact.php">Exchange links?</a><br />
+                                <a href="http://www.football-data.co.uk/betting.php">Betting sites</a><br />
+                                <a href="http://www.football-data.co.uk/arbitrage.php">Arbitrage sites</a><br />
+                                <a href="http://www.football-data.co.uk/asian.php">Asian Handicap sites</a><br />
+                                <a href="http://www.football-data.co.uk/results.php">Results sites</a><br />
+                                <a href="http://www.football-data.co.uk/livescores.php">Livescore</a><br />
+                                <a href="http://www.football-data.co.uk/picks.php">Picks &amp; Tipsters</a><br />
+                                <a href="http://www.football-data.co.uk/forums.php">Betting Forums</a><br />
+                                <a href="http://www.football-data.co.uk/portals.php">Soccer Portals</a><br />
+                                <a href="http://www.football-data.co.uk/odds.php">Odds Comparisons</a><br />
+                                <a href="http://www.football-data.co.uk/spreads.php">Spread Betting</a><br />
+                                <a href="http://www.football-data.co.uk/software.php">Betting Software</a><br />
+                                <a href="http://www.football-data.co.uk/games.php">Football Games</a><br />
+                                <a href="http://www.football-data.co.uk/blogs.php">Betting Blogs</a><br />
+                                <a href="http://www.football-data.co.uk/freemoney.php">Free Bets sites</a><br />
+                                <a href="http://www.football-data.co.uk/foreign.php">Foreign Betting sites</a><br />
+                                <a href="http://www.football-data.co.uk/racing.php">Horse Racing Links</a><br />
+                                <a href="http://www.football-data.co.uk/ussports.php">US Sports</a><br />
+                                <a href="http://www.football-data.co.uk/othersports.php">Other Sports</a><br />
+                                <a href="http://www.football-data.co.uk/casinos.php">Casino &amp; Poker</a><br />
+                                <a href="http://www.betting-books.co.uk/">Books</a>
+                            </div>
+	
+                            <div id="desc">
+                                &nbsp;
+                            </div>
+                        </div>    
+					</div>
+						<div class="horizontalNavBar">
+							
+						</div>
+				
+					<div id="bodyContainer">
+						<div id="navContainer">
+							
+	
+		<div class="topMenu ">
+			<a class="icon-s17" href="/american-football/">American Football</a>
+			<div class="subMenu s17">
+			
+					<a href="/american-football/nfl/" id="rf39">NFL</a>
+				
+					<a href="/american-football/ncaa/" id="rf40">NCAA</a>
+				
+					<a href="/american-football/cfl/" id="rf147">CFL</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4021954" href="/archery/">Archery</a>
+			<div class="subMenu s4021954">
+			
+					<a href="/archery/world/" id="s4021954reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s1" href="/athletics/">Athletics</a>
+			<div class="subMenu s1">
+			
+					<a href="/athletics/world/" id="s1reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s271554" href="/badminton/">Badminton</a>
+			<div class="subMenu s271554">
+			
+					<a href="/badminton/france/" id="s271554reg236">France</a>
+				
+					<a href="/badminton/world/" id="s271554reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s3" href="/baseball/">Baseball</a>
+			<div class="subMenu s3">
+			
+					<a href="/baseball/major-league-baseball/" id="rf38">MLB</a>
+				
+					<a href="/baseball/other-leagues/" id="rf265">Other Leagues</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4" href="/basketball/">Basketball</a>
+			<div class="subMenu s4">
+			
+					<a href="/basketball/nba/" id="rf126">NBA</a>
+				
+					<a href="/basketball/eurocup/" id="rf155">Eurocup</a>
+				
+					<a href="/basketball/euroleague/" id="rf154">Euroleague</a>
+				
+					<a href="/basketball/other-leagues/" id="rf129">Other Leagues</a>
+				
+					<a href="/basketball/european-leagues/" id="rf128">European Leagues</a>
+				
+					<a href="/basketball/madagascar/" id="s4reg37">Madagascar</a>
+				
+					<a href="/basketball/mexico/" id="s4reg119">Mexico</a>
+				
+					<a href="/basketball/euroleague-women/" id="rf379">Euroleague Women</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s5" href="/boxing/">Boxing</a>
+			<div class="subMenu s5">
+			
+					<a href="/boxing/professional-boxing/" id="rf90">Professional</a>
+				
+					<a href="/boxing/world/" id="s5reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022228" href="/canoeing-kayaking/">Canoeing/Kayaking</a>
+			<div class="subMenu s4022228">
+			
+					<a href="/canoeing-kayaking/world/" id="s4022228reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s6" href="/cricket/">Cricket</a>
+			<div class="subMenu s6">
+			
+					<a href="/cricket/icc-odi-championship/" id="rf116">ODI Series</a>
+				
+					<a href="/cricket/twenty20-internationals/" id="rf137">Twenty20 Internationals</a>
+				
+					<a href="/cricket/world-cup/" id="rf138">World Cup</a>
+				
+					<a href="/cricket/australian-domestic/" id="rf121">Australian Domestic</a>
+				
+					<a href="/cricket/english-domestic/" id="rf122">English Domestic</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s7" href="/cycling/">Cycling</a>
+			<div class="subMenu s7">
+			
+					<a href="/cycling/world/" id="s7reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s8" href="/darts/">Darts</a>
+			<div class="subMenu s8">
+			
+					<a href="/darts/pdc-european-championship/" id="comp1086">Unibet European Championship</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022299" href="/diving/">Diving</a>
+			<div class="subMenu s4022299">
+			
+					<a href="/diving/world/" id="s4022299reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s70679" href="/equestrian/">Equestrian</a>
+			<div class="subMenu s70679">
+			
+					<a href="/equestrian/world/" id="s70679reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022341" href="/fencing/">Fencing</a>
+			<div class="subMenu s4022341">
+			
+					<a href="/fencing/world/" id="s4022341reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu navActive">
+			<a class="icon-s10" href="/football/">Football</a>
+			<div class="subMenu s10">
+			
+					<a href="/football-world-cup-2018/" id="rf468">World Cup 2018</a>
+				
+					<a href="/football/england/" id="s10reg3795032">England</a>
+				
+					<a href="/football/scotland/" id="s10reg3795035">Scotland</a>
+				
+					<a href="/football/italy/" id="s10reg225">Italy</a>
+				
+					<a href="/football/spain/" id="s10reg232">Spain</a>
+				
+					<a href="/football/germany/" id="s10reg237">Germany</a>
+				
+					<a href="/football/france/" id="s10reg236">France</a>
+				
+					<a href="/football/champions-league/" id="rf3">Champions League</a>
+				
+					<a href="/football/uefa-europa-league/" id="rf211">UEFA Europa League</a>
+				
+					<a href="/football/european-leagues/" class="navItemActive">European Leagues</a>
+				
+					<a href="/football/uefa-euro-2020/winner/" id="rf492">UEFA Euro 2020</a>
+				
+					<a href="/football/latin-american-leagues/" id="rf5">Latin American Leagues</a>
+				
+					<a href="/football/uefa-nations-league/" id="rf497">UEFA Nations League </a>
+				
+					<a href="/football/world-cup-qualification/" id="rf441">World Cup Qualifiers</a>
+				
+					<a href="/football/other-leagues/" id="rf6">Other Leagues</a>
+				
+					<a href="/football/barbados/" id="s10reg92">Barbados</a>
+				
+					<a href="/football/europe/" id="s10reg6">Europe</a>
+				
+					<a href="/football/gibraltar/" id="s10reg222">Gibraltar</a>
+				
+					<a href="/football/nicaragua/" id="s10reg120">Nicaragua</a>
+				
+					<a href="/football/next-permanent-manager-specials/" id="comp4951">Next Permanent Manager Specials</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s491393" href="/futsal/">Futsal</a>
+			<div class="subMenu s491393">
+			
+					<a href="/futsal/russia/" id="s491393reg198">Russia</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s12" href="/golf/">Golf</a>
+			<div class="subMenu s12">
+			
+					<a href="/golf/wgc-hsbc-champions/" id="comp535">WGC-HSBC Champions</a>
+				
+					<a href="/golf/lpga-taiwan-championship/" id="comp3165">Swinging Skirts LPGA Taiwan Championship</a>
+				
+					<a href="/golf/tiger-woods-vs-phil-mickelson/" id="comp11478">The Match</a>
+				
+					<a href="/golf/sanderson-farms-championship/" id="comp1025">Sanderson Farms Championship</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s13" href="/greyhounds/">Greyhounds</a>
+			<div class="subMenu s13">
+			
+					<a href="/greyhounds/united-kingdom/" id="s13reg217">UK</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022394" href="/gymnastics/">Gymnastics</a>
+			<div class="subMenu s4022394">
+			
+					<a href="/gymnastics/world/" id="s4022394reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s99614" href="/handball/">Handball</a>
+			<div class="subMenu s99614">
+			
+					<a href="/handball/european-leagues/" id="rf93">European Leagues</a>
+				
+					<a href="/handball/european-championship/" id="rf238">European Championship</a>
+				
+					<a href="/handball/world/" id="s99614reg2">World</a>
+				
+					<a href="/handball/women's/" id="rf268">Women's</a>
+				
+					<a href="/handball/world-handball-championship/" id="rf95">World Handball Championship</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s208627" href="/hockey/">Hockey</a>
+			<div class="subMenu s208627">
+			
+					<a href="/hockey/world/" id="s208627reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s14" href="/horse-racing/">Horse Racing</a>
+			<div class="subMenu s14">
+			
+					<a href="/horse-racing/nexthorserace/" id="rf62">Next Horse Race</a>
+				
+					<a href="/horse-racing/today" id="rf41">Today</a>
+				
+					<a href="/horse-racing/tomorrow" id="rf42">Tomorrow</a>
+				
+					<a href="/horse-racing/antepost/" id="rf130">Antepost</a>
+				
+					<a href="/horse-racing/international-racing/" id="rf94">International</a>
+				
+					<a href="/horse-racing/calendar/" id="rf136">Calendar</a>
+				
+					<a href="/steamers" id="rf214">Steamers</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s15" href="/ice-hockey/">Ice Hockey</a>
+			<div class="subMenu s15">
+			
+					<a href="/ice-hockey/nhl/" id="rf101">NHL</a>
+				
+					<a href="/ice-hockey/kontinental-hockey-league/" id="rf455">KHL</a>
+				
+					<a href="/ice-hockey/european-leagues/" id="rf98">European Leagues</a>
+				
+					<a href="/ice-hockey/ahl/" id="rf99">AHL</a>
+				
+					<a href="/ice-hockey/champions-hockey-league/" id="rf105">CHL</a>
+				
+					<a href="/ice-hockey/asia/" id="s15reg5">Asia</a>
+				
+					<a href="/ice-hockey/canada/" id="s15reg137">Canada</a>
+				
+					<a href="/ice-hockey/kazakhstan/" id="s15reg141">Kazakhstan</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022554" href="/judo/">Judo</a>
+			<div class="subMenu s4022554">
+			
+					<a href="/judo/world/" id="s4022554reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s300115" href="/martial-arts-ufc/">Martial Arts/UFC</a>
+			<div class="subMenu s300115">
+			
+					<a href="/martial-arts-ufc/ultimate-fighting-championship/" id="rf165">UFC</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022615" href="/modern-pentathlon/">Modern Pentathlon</a>
+			<div class="subMenu s4022615">
+			
+					<a href="/modern-pentathlon/world/" id="s4022615reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s16" href="/motor-sport/">Motor Sport</a>
+			<div class="subMenu s16">
+			
+					<a href="/motor-sport/formula-1/" id="rf15">Formula 1</a>
+				
+					<a href="/motor-sport/moto2-gp/" id="rf477">Moto2 GP</a>
+				
+					<a href="/motor-sport/world-rally-championship/" id="rf17">WRC</a>
+				
+					<a href="/motor-sport/supercars/" id="rf255">V8 Supercars</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s78155" href="/politics/">Politics</a>
+			<div class="subMenu s78155">
+			
+					<a href="/politics/united-kingdom/" id="rf149">UK</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s62969" href="/rowing/">Rowing</a>
+			<div class="subMenu s62969">
+			
+					<a href="/rowing/world/" id="s62969reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s73743" href="/rugby-league/">Rugby League</a>
+			<div class="subMenu s73743">
+			
+					<a href="/rugby-league/australia/" id="rf131">Australian Domestic</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s73744" href="/rugby-union/">Rugby Union</a>
+			<div class="subMenu s73744">
+			
+					<a href="/rugby-union/internationals/" id="rf298">Internationals</a>
+				
+					<a href="/rugby-union/rabodirect-pro12/" id="rf461">RaboDirect Pro 12</a>
+				
+					<a href="/rugby-union/european-leagues/" id="rf176">European Leagues</a>
+				
+					<a href="/rugby-union/other-leagues/" id="rf177">Other Leagues</a>
+				
+					<a href="/rugby-union/world-cup/" id="rf173">World Cup</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022667" href="/sailing/">Sailing</a>
+			<div class="subMenu s4022667">
+			
+					<a href="/sailing/world/" id="s4022667reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022691" href="/shooting/">Shooting</a>
+			<div class="subMenu s4022691">
+			
+					<a href="/shooting/world/" id="s4022691reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s100558" href="/ski-jumping/">Ski Jumping</a>
+			<div class="subMenu s100558">
+			
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s22" href="/snooker/">Snooker</a>
+			<div class="subMenu s22">
+			
+					<a href="/snooker/english-open/" id="comp8865">BetVictor English Open</a>
+				
+					<a href="/snooker/uk-championship/" id="comp1408">UK Championship</a>
+				
+					<a href="/snooker/the-dafabet-masters/" id="comp1467">The Dafabet Masters</a>
+				
+					<a href="/snooker/world-championship/" id="rf142">World Championship</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s550153" href="/swimming/">Swimming</a>
+			<div class="subMenu s550153">
+			
+					<a href="/swimming/world/" id="s550153reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s269467" href="/table-tennis/">Table Tennis</a>
+			<div class="subMenu s269467">
+			
+					<a href="/table-tennis/world/" id="s269467reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022858" href="/taekwondo/">Taekwondo</a>
+			<div class="subMenu s4022858">
+			
+					<a href="/taekwondo/world/" id="s4022858reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-rf190" href="/tennis/">Tennis</a>
+			<div class="subMenu rf190">
+			
+					<a href="/tennis/wimbledon/" id="rf1">Wimbledon</a>
+				
+					<a href="/tennis/us-open/" id="rf74">US Open</a>
+				
+					<a href="/tennis/australian-open/" id="rf77">Australian Open</a>
+				
+					<a href="/tennis/french-open/" id="rf78">French Open</a>
+				
+					<a href="/tennis/atp-tour/" id="rf179">ATP Tour</a>
+				
+					<a href="/tennis/Fed-Cup" id="rf447">Fed Cup</a>
+				
+					<a href="/tennis/wta-tour/" id="rf180">WTA Tour</a>
+				
+					<a href="/tennis/challenger-series/" id="rf181">Challenger Series</a>
+				
+					<a href="/tennis/davis-cup/" id="rf150">Davis Cup</a>
+				
+					<a href="/italy/" id="rf190">Italy</a>
+				
+					<a href="/usa/" id="rf190">USA</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4022991" href="/triathlon/">Triathlon</a>
+			<div class="subMenu s4022991">
+			
+					<a href="/triathlon/world/" id="s4022991reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s91189" href="/volleyball/">Volleyball</a>
+			<div class="subMenu s91189">
+			
+					<a href="/volleyball/european-leagues/" id="rf114">European Leagues</a>
+				
+					<a href="/volleyball/china/" id="s91189reg146">China</a>
+				
+					<a href="/volleyball/europe/" id="s91189reg6">Europe</a>
+				
+					<a href="/volleyball/korea-rep/" id="s91189reg152">Korea Rep</a>
+				
+					<a href="/volleyball/vietnam/" id="s91189reg172">Vietnam</a>
+				
+					<a href="/volleyball/world/" id="s91189reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s276032" href="/water-polo/">Water Polo</a>
+			<div class="subMenu s276032">
+			
+					<a href="/water-polo/world/" id="s276032reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s729926" href="/weightlifting/">Weightlifting</a>
+			<div class="subMenu s729926">
+			
+					<a href="/weightlifting/world/" id="s729926reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s4023055" href="/wrestling/">Wrestling</a>
+			<div class="subMenu s4023055">
+			
+					<a href="/wrestling/world/" id="s4023055reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s7950337" href="/beach-volleyball/">Beach Volleyball</a>
+			<div class="subMenu s7950337">
+			
+					<a href="/beach-volleyball/world/" id="s7950337reg2">World</a>
+				
+			</div>
+		</div>
+	
+		<div class="topMenu ">
+			<a class="icon-s10915624" href="/esports/">eSports</a>
+			<div class="subMenu s10915624">
+			
+					<a href="/esports/csgo/" id="s10915624reg3795066">CSGO</a>
+				
+					<a href="/esports/dota/" id="s10915624reg3795067">DOTA</a>
+				
+					<a href="/esports/lol/" id="s10915624reg3795068">LOL</a>
+				
+					<a href="/esports/rainbow-six/" id="s10915624reg3795093">Rainbow Six</a>
+				
+					<a href="/esports/sc/" id="s10915624reg3795082">SC</a>
+				
+					<a href="/esports/sc2/" id="s10915624reg3795069">SC2</a>
+				
+			</div>
+		</div>
+	
+	<!--
+			<li class="navActive navExtra"><a href="/special_offers">Special Offers</a></li>
+			<li class="navActive navExtra"><a href="/bookmakers">Bookmakers</a></li>									
+			<li class="navActive navExtra"><a href="/help">Help</a></li>
+			-->
+	
+<script type="text/javascript">
+	var lastMenu = 's10';
+	collapseMenu();
+</script>
+<!--googleon: index-->
+
+							<div id="subNavContainer">
+								<a href="http://www.betgenius.com/" target="_blank"><img src="http://cdn1.resources.bestbetting.com/default/images/betgenius_logo.gif" alt="Betgenius Logo" /></a>
+							    
+							</div>
+													
+						</div>
+						
+						<div id="contentContainer">
+							
+							<div id="skyscraper">
+								
+							</div> 
+							<div id="breadCrumbContainer">
+								
+	
+		<a href="http://www.football-data.co.uk/">Home</a> &#187; 
+
+		<a href="/">Sports Betting</a> &#187; 
+
+		<a href="/football/">Football</a> &#187; 
+
+		<a href="/football/european-leagues/">European Leagues</a> &#187; 
+
+		<a href="/football/germany/">Germany</a> &#187; 
+
+		<a href="/football/germany/fußball-bundesliga/">Bundesliga</a> &#187; 
+
+
+							</div>
+							
+	
+<div>
+    <div class="popupMoreEventsContainer">
+		
+        <div style="display: none;">
+            <h4>More Bets &#187;</h4>
+        </div>
+        
+	    <h1>Football: Bundesliga</h1>
+	    <div style="display: none;" class="subContainer">
+	        <div>
+	            
+<!--googleoff: index-->
+
+<div class="relatedEventsContainer">
+	<div class="expandCollapseButton">Collapse</div>
+	<h2>
+		Season Bets
+		
+	</h2>
+	
+	<div class="relatedEvents ">
+		
+                <table>
+                    <tr>
+						
+							<td class="eventGroup">
+							<table class="listOne" cellpadding="0" cellspacing="0">
+							
+								<tr><td class="event">
+									<a href="/football/germany/fussball-bundesliga/winner/">Winner</a>
+									
+								</td></tr>
+							
+							</table>
+							</td>
+							
+						
+							<td class="eventGroup">
+							<table cellpadding="0" cellspacing="0">
+							
+								<tr><td class="event">
+									<a href="/football/germany/fussball-bundesliga/relegation/">Relegation</a>
+									
+								</td></tr>
+							
+							</table>
+							</td>
+							
+						
+							<td class="eventGroup">
+							<table cellpadding="0" cellspacing="0">
+							
+							</table>
+							</td>
+							
+		             </tr>
+		         </table>    
+		
+	</div>
+	<div class="cleaner">&nbsp;</div>
+</div>
+
+<!--googleon: index-->
+	            <p class="closeButton"><a href="#" class="popupMoreEventsContainerCloseButton">Close</a></p>
+	        </div>
+	    </div>
+	</div>
+</div>
+
+
+<div id="couponUpdateArea" class="couponTable">
+	
+<div class="couponTabs">
+	
+<div class="tabContainer">
+	<ul>
+		
+		<li class="active">
+			
+			<span>Match Result</span>
+			
+		</li>	
+		
+		<li>
+			
+					<a href="/football/germany/fußball-bundesliga/asian-handicap/" onclick="displayPage(this, ''); return false;">Asian Handicap</a>	
+				
+		</li>	
+		
+		<li>
+			
+					<a href="/football/germany/fußball-bundesliga/draw-no-bet/" onclick="displayPage(this, ''); return false;">Draw No Bet</a>	
+				
+		</li>	
+		
+		<li>
+			
+					<a href="/football/germany/fußball-bundesliga/half-time/" onclick="displayPage(this, ''); return false;">Half Time</a>	
+				
+		</li>	
+		
+	</ul>
+</div>
+</div>
+
+
+<div id="outerFrame">
+	<table class="couponTable">
+		<tbody>
+			
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Friday 26 October 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/sc-freiburg-v-borussia-mönchengladbach/match-result/all-odds/defaultSort" class="couponDetails" id="m214680389"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/sc-freiburg-v-borussia-mönchengladbach/match-result/">SC Freiburg v Borussia Mönchengladbach</a> 
+				(19:30&nbsp;BST)
+			</td>
+			
+					<td id="s857572748" class="selectionBestOdd" style=" ">
+					23/10
+					</td>
+				
+					<td id="s857572787" class="selectionBestOdd" style=" ">
+					13/5
+					</td>
+				
+					<td id="s857572829" class="selectionBestOdd" style=" ">
+					5/4
+					</td>
+				
+			<td id="bpp214680389" class="bppWidth bpp">102.32 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680389"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Saturday 27 October 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/1-fsv-mainz-05-v-fc-bayern-münchen/match-result/all-odds/defaultSort" class="couponDetails" id="m214680456"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/1-fsv-mainz-05-v-fc-bayern-münchen/match-result/">1. FSV Mainz 05 v FC Bayern München</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857572960" class="selectionBestOdd" style=" ">
+					12
+					</td>
+				
+					<td id="s857572983" class="selectionBestOdd" style=" ">
+					11/2
+					</td>
+				
+					<td id="s857573008" class="selectionBestOdd" style=" ">
+					2/7
+					</td>
+				
+			<td id="bpp214680456" class="bppWidth bpp">101.35 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680456"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/borussia-dortmund-v-hertha-bsc/match-result/all-odds/defaultSort" class="couponDetails" id="m214680036"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/borussia-dortmund-v-hertha-bsc/match-result/">Borussia Dortmund v Hertha BSC</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571182" class="selectionBestOdd" style=" ">
+					9/20
+					</td>
+				
+					<td id="s857571210" class="selectionBestOdd" style=" ">
+					4
+					</td>
+				
+					<td id="s857571223" class="selectionBestOdd" style=" ">
+					13/2
+					</td>
+				
+			<td id="bpp214680036" class="bppWidth bpp">102.19 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680036"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/fortuna-düsseldorf-v-vfl-wolfsburg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680217"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/fortuna-düsseldorf-v-vfl-wolfsburg/match-result/">Fortuna Düsseldorf v VfL Wolfsburg</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571947" class="selectionBestOdd" style=" ">
+					21/10
+					</td>
+				
+					<td id="s857571981" class="selectionBestOdd" style=" ">
+					12/5
+					</td>
+				
+					<td id="s857572004" class="selectionBestOdd" style=" ">
+					6/4
+					</td>
+				
+			<td id="bpp214680217" class="bppWidth bpp">101.50 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680217"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/hannover-96-v-fc-augsburg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680154"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/hannover-96-v-fc-augsburg/match-result/">Hannover 96 v FC Augsburg</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571686" class="selectionBestOdd" style=" ">
+					13/8
+					</td>
+				
+					<td id="s857571697" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857571710" class="selectionBestOdd" style=" ">
+					9/5
+					</td>
+				
+			<td id="bpp214680154" class="bppWidth bpp">102.51 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680154"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/1899-hoffenheim-v-vfb-stuttgart/match-result/all-odds/defaultSort" class="couponDetails" id="m214680114"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/1899-hoffenheim-v-vfb-stuttgart/match-result/">1899 Hoffenheim v VfB Stuttgart</a> 
+				(17:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571504" class="selectionBestOdd" style=" ">
+					13/20
+					</td>
+				
+					<td id="s857571566" class="selectionBestOdd" style=" ">
+					7/2
+					</td>
+				
+					<td id="s857571633" class="selectionBestOdd" style=" ">
+					9/2
+					</td>
+				
+			<td id="bpp214680114" class="bppWidth bpp">101.28 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680114"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Sunday 28 October 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/1-fc-nürnberg-v-eintracht-frankfurt/match-result/all-odds/defaultSort" class="couponDetails" id="m214680219"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/1-fc-nürnberg-v-eintracht-frankfurt/match-result/">1. FC Nürnberg v Eintracht Frankfurt</a> 
+				(12:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571946" class="selectionBestOdd" style=" ">
+					23/10
+					</td>
+				
+					<td id="s857571992" class="selectionBestOdd" style=" ">
+					13/5
+					</td>
+				
+					<td id="s857572023" class="selectionBestOdd" style=" ">
+					5/4
+					</td>
+				
+			<td id="bpp214680219" class="bppWidth bpp">102.29 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680219"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/rb-leipzig-v-fc-schalke-04/match-result/all-odds/defaultSort" class="couponDetails" id="m214680056"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/rb-leipzig-v-fc-schalke-04/match-result/">RB Leipzig v FC Schalke 04</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857571254" class="selectionBestOdd" style=" ">
+					1/1
+					</td>
+				
+					<td id="s857571307" class="selectionBestOdd" style=" ">
+					14/5
+					</td>
+				
+					<td id="s857571323" class="selectionBestOdd" style=" ">
+					3
+					</td>
+				
+			<td id="bpp214680056" class="bppWidth bpp">101.01 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680056"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-9/werder-bremen-v-bayer-04-leverkusen/match-result/all-odds/defaultSort" class="couponDetails" id="m214680129"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-9/werder-bremen-v-bayer-04-leverkusen/match-result/">Werder Bremen v Bayer 04 Leverkusen</a> 
+				(17:00&nbsp;BST)
+			</td>
+			
+					<td id="s857571550" class="selectionBestOdd" style=" ">
+					7/5
+					</td>
+				
+					<td id="s857571622" class="selectionBestOdd" style=" ">
+					11/4
+					</td>
+				
+					<td id="s857571654" class="selectionBestOdd" style=" ">
+					11/5
+					</td>
+				
+			<td id="bpp214680129" class="bppWidth bpp">99.94 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680129"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Friday 2 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/vfb-stuttgart-v-eintracht-frankfurt/match-result/all-odds/defaultSort" class="couponDetails" id="m214680345"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/vfb-stuttgart-v-eintracht-frankfurt/match-result/">VfB Stuttgart v Eintracht Frankfurt</a> 
+				(19:30&nbsp;BST)
+			</td>
+			
+					<td id="s857572490" class="selectionBestOdd" style=" ">
+					29/20
+					</td>
+				
+					<td id="s857572538" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857572568" class="selectionBestOdd" style=" ">
+					21/10
+					</td>
+				
+			<td id="bpp214680345" class="bppWidth bpp">101.65 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680345"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Saturday 3 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/bayer-04-leverkusen-v-1899-hoffenheim/match-result/all-odds/defaultSort" class="couponDetails" id="m214680285"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/bayer-04-leverkusen-v-1899-hoffenheim/match-result/">Bayer 04 Leverkusen v 1899 Hoffenheim</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857572230" class="selectionBestOdd" style=" ">
+					6/5
+					</td>
+				
+					<td id="s857572259" class="selectionBestOdd" style=" ">
+					14/5
+					</td>
+				
+					<td id="s857572300" class="selectionBestOdd" style=" ">
+					14/5
+					</td>
+				
+			<td id="bpp214680285" class="bppWidth bpp">97.33 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680285"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-augsburg-v-1-fc-nürnberg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680473"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-augsburg-v-1-fc-nürnberg/match-result/">FC Augsburg v 1. FC Nürnberg</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857573004" class="selectionBestOdd" style=" ">
+					4/5
+					</td>
+				
+					<td id="s857573032" class="selectionBestOdd" style=" ">
+					11/4
+					</td>
+				
+					<td id="s857573075" class="selectionBestOdd" style=" ">
+					4
+					</td>
+				
+			<td id="bpp214680473" class="bppWidth bpp">102.22 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680473"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-bayern-münchen-v-sc-freiburg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680235"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-bayern-münchen-v-sc-freiburg/match-result/">FC Bayern München v SC Freiburg</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857572014" class="selectionBestOdd" style=" ">
+					2/17
+					</td>
+				
+					<td id="s857572045" class="selectionBestOdd" style=" ">
+					11
+					</td>
+				
+					<td id="s857572087" class="selectionBestOdd" style=" ">
+					28
+					</td>
+				
+			<td id="bpp214680235" class="bppWidth bpp">101.24 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680235"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-schalke-04-v-hannover-96/match-result/all-odds/defaultSort" class="couponDetails" id="m214680500"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/fc-schalke-04-v-hannover-96/match-result/">FC Schalke 04 v Hannover 96</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857573135" class="selectionBestOdd" style=" ">
+					3/5
+					</td>
+				
+					<td id="s857573136" class="selectionBestOdd" style=" ">
+					10/3
+					</td>
+				
+					<td id="s857573153" class="selectionBestOdd" style=" ">
+					6
+					</td>
+				
+			<td id="bpp214680500" class="bppWidth bpp">99.88 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680500"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/vfl-wolfsburg-v-borussia-dortmund/match-result/all-odds/defaultSort" class="couponDetails" id="m214680851"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/vfl-wolfsburg-v-borussia-dortmund/match-result/">VfL Wolfsburg v Borussia Dortmund</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574818" class="selectionBestOdd" style=" ">
+					10/3
+					</td>
+				
+					<td id="s857574849" class="selectionBestOdd" style=" ">
+					3
+					</td>
+				
+					<td id="s857574887" class="selectionBestOdd" style=" ">
+					19/20
+					</td>
+				
+			<td id="bpp214680851" class="bppWidth bpp">99.83 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680851"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/hertha-bsc-v-rb-leipzig/match-result/all-odds/defaultSort" class="couponDetails" id="m214680607"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/hertha-bsc-v-rb-leipzig/match-result/">Hertha BSC v RB Leipzig</a> 
+				(17:30&nbsp;BST)
+			</td>
+			
+					<td id="s857573682" class="selectionBestOdd" style=" ">
+					13/5
+					</td>
+				
+					<td id="s857573690" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857573698" class="selectionBestOdd" style=" ">
+					5/4
+					</td>
+				
+			<td id="bpp214680607" class="bppWidth bpp">100.79 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680607"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Sunday 4 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/borussia-mönchengladbach-v-fortuna-düsseldorf/match-result/all-odds/defaultSort" class="couponDetails" id="m214680605"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/borussia-mönchengladbach-v-fortuna-düsseldorf/match-result/">Borussia Mönchengladbach v Fortuna Düsseldorf</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857573681" class="selectionBestOdd" style=" ">
+					4/6
+					</td>
+				
+					<td id="s857573688" class="selectionBestOdd" style=" ">
+					7/2
+					</td>
+				
+					<td id="s857573695" class="selectionBestOdd" style=" ">
+					8
+					</td>
+				
+			<td id="bpp214680605" class="bppWidth bpp">92.86 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680605"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-10/1-fsv-mainz-05-v-werder-bremen/match-result/all-odds/defaultSort" class="couponDetails" id="m214680475"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-10/1-fsv-mainz-05-v-werder-bremen/match-result/">1. FSV Mainz 05 v Werder Bremen</a> 
+				(17:00&nbsp;BST)
+			</td>
+			
+					<td id="s857573033" class="selectionBestOdd" style=" ">
+					21/10
+					</td>
+				
+					<td id="s857573068" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857573084" class="selectionBestOdd" style=" ">
+					17/10
+					</td>
+				
+			<td id="bpp214680475" class="bppWidth bpp">97.87 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680475"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Friday 9 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/hannover-96-v-vfl-wolfsburg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680855"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/hannover-96-v-vfl-wolfsburg/match-result/">Hannover 96 v VfL Wolfsburg</a> 
+				(19:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574846" class="selectionBestOdd" style=" ">
+					6/4
+					</td>
+				
+					<td id="s857574870" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574935" class="selectionBestOdd" style=" ">
+					9/5
+					</td>
+				
+			<td id="bpp214680855" class="bppWidth bpp">104.29 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680855"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Saturday 10 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/1-fc-nürnberg-v-vfb-stuttgart/match-result/all-odds/defaultSort" class="couponDetails" id="m214680880"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/1-fc-nürnberg-v-vfb-stuttgart/match-result/">1. FC Nürnberg v VfB Stuttgart</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574997" class="selectionBestOdd" style=" ">
+					6/4
+					</td>
+				
+					<td id="s857575019" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857575039" class="selectionBestOdd" style=" ">
+					9/5
+					</td>
+				
+			<td id="bpp214680880" class="bppWidth bpp">104.29 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680880"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/1899-hoffenheim-v-fc-augsburg/match-result/all-odds/defaultSort" class="couponDetails" id="m214680766"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/1899-hoffenheim-v-fc-augsburg/match-result/">1899 Hoffenheim v FC Augsburg</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574433" class="selectionBestOdd" style=" ">
+					17/20
+					</td>
+				
+					<td id="s857574446" class="selectionBestOdd" style=" ">
+					14/5
+					</td>
+				
+					<td id="s857574456" class="selectionBestOdd" style=" ">
+					10/3
+					</td>
+				
+			<td id="bpp214680766" class="bppWidth bpp">103.46 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680766"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/fortuna-düsseldorf-v-hertha-bsc/match-result/all-odds/defaultSort" class="couponDetails" id="m214680786"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/fortuna-düsseldorf-v-hertha-bsc/match-result/">Fortuna Düsseldorf v Hertha BSC</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574527" class="selectionBestOdd" style=" ">
+					19/10
+					</td>
+				
+					<td id="s857574548" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574569" class="selectionBestOdd" style=" ">
+					7/5
+					</td>
+				
+			<td id="bpp214680786" class="bppWidth bpp">104.14 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680786"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/sc-freiburg-v-1-fsv-mainz-05/match-result/all-odds/defaultSort" class="couponDetails" id="m214680867"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/sc-freiburg-v-1-fsv-mainz-05/match-result/">SC Freiburg v 1. FSV Mainz 05</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574918" class="selectionBestOdd" style=" ">
+					5/4
+					</td>
+				
+					<td id="s857574952" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857575000" class="selectionBestOdd" style=" ">
+					11/5
+					</td>
+				
+			<td id="bpp214680867" class="bppWidth bpp">104.27 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680867"></td>
+		</tr>
+	
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/werder-bremen-v-borussia-mönchengladbach/match-result/all-odds/defaultSort" class="couponDetails" id="m214680780"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/werder-bremen-v-borussia-mönchengladbach/match-result/">Werder Bremen v Borussia Mönchengladbach</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574494" class="selectionBestOdd" style=" ">
+					7/5
+					</td>
+				
+					<td id="s857574505" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574520" class="selectionBestOdd" style=" ">
+					21/10
+					</td>
+				
+			<td id="bpp214680780" class="bppWidth bpp">101.98 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680780"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/borussia-dortmund-v-fc-bayern-münchen/match-result/all-odds/defaultSort" class="couponDetails" id="m214680857"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/borussia-dortmund-v-fc-bayern-münchen/match-result/">Borussia Dortmund v FC Bayern München</a> 
+				(17:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574854" class="selectionBestOdd" style=" ">
+					12/5
+					</td>
+				
+					<td id="s857574875" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574938" class="selectionBestOdd" style=" ">
+					6/5
+					</td>
+				
+			<td id="bpp214680857" class="bppWidth bpp">103.44 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680857"></td>
+		</tr>
+	
+				
+					
+		<tr>
+			
+			<th>&nbsp;</th>
+			
+			<th class="firstColumn">Sunday 11 November 2018</th>
+			
+					<th>Home</th>
+				
+					<th>Draw</th>
+				
+					<th>Away</th>
+				
+			<th class="bppWidth">BPP</th>
+			
+		</tr>
+
+		<tr class="row0">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/rb-leipzig-v-bayer-04-leverkusen/match-result/all-odds/defaultSort" class="couponDetails" id="m214680694"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/rb-leipzig-v-bayer-04-leverkusen/match-result/">RB Leipzig v Bayer 04 Leverkusen</a> 
+				(14:30&nbsp;BST)
+			</td>
+			
+					<td id="s857574093" class="selectionBestOdd" style=" ">
+					23/20
+					</td>
+				
+					<td id="s857574099" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574104" class="selectionBestOdd" style=" ">
+					12/5
+					</td>
+				
+			<td id="bpp214680694" class="bppWidth bpp">104.09 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680694"></td>
+		</tr>
+	
+		<tr class="row1">
+			
+			<td><a href="/football/germany/fussball-bundesliga/regular-season/round-11/eintracht-frankfurt-v-fc-schalke-04/match-result/all-odds/defaultSort" class="couponDetails" id="m214680781"><img src="http://cdn1.resources.bestbetting.com/default/images/buttons/maximize.gif" alt="" /></a></td>
+			
+			<td class="firstColumn">
+				<a href="/football/germany/fussball-bundesliga/regular-season/round-11/eintracht-frankfurt-v-fc-schalke-04/match-result/">Eintracht Frankfurt v FC Schalke 04</a> 
+				(17:00&nbsp;BST)
+			</td>
+			
+					<td id="s857574496" class="selectionBestOdd" style=" ">
+					6/4
+					</td>
+				
+					<td id="s857574511" class="selectionBestOdd" style=" ">
+					5/2
+					</td>
+				
+					<td id="s857574525" class="selectionBestOdd" style=" ">
+					15/8
+					</td>
+				
+			<td id="bpp214680781" class="bppWidth bpp">102.87 %</td>
+			
+		</tr>
+		<tr>
+			<td style="display: none;" colspan="6" id="pm214680781"></td>
+		</tr>
+	
+				
+		</tbody>
+	</table>
+</div>
+
+
+</div>
+
+<a id="offers"></a>
+
+
+
+<div class="groupPageContainer">
+    <div class="sportRegionContainer">
+	<ul>
+
+        </ul>
+    </div>
+</div>
+
+<!--googleoff: index-->
+
+<div class="relatedEventsContainer">
+	<div class="expandCollapseButton">Collapse</div>
+	<h2>
+		Season Bets
+		
+	</h2>
+	
+	<div class="relatedEvents ">
+		
+                <table>
+                    <tr>
+						
+							<td class="eventGroup">
+							<table class="listOne" cellpadding="0" cellspacing="0">
+							
+								<tr><td class="event">
+									<a href="/football/germany/fussball-bundesliga/winner/">Winner</a>
+									
+								</td></tr>
+							
+							</table>
+							</td>
+							
+						
+							<td class="eventGroup">
+							<table cellpadding="0" cellspacing="0">
+							
+								<tr><td class="event">
+									<a href="/football/germany/fussball-bundesliga/relegation/">Relegation</a>
+									
+								</td></tr>
+							
+							</table>
+							</td>
+							
+						
+							<td class="eventGroup">
+							<table cellpadding="0" cellspacing="0">
+							
+							</table>
+							</td>
+							
+		             </tr>
+		         </table>    
+		
+	</div>
+	<div class="cleaner">&nbsp;</div>
+</div>
+
+<!--googleon: index-->
+
+
+<script type="text/javascript">
+	marketId = 0;
+	initialTab = 'best-odds';
+</script>
+<p class="disclaimerContainer">
+	While every effort is made to ensure that the Football betting information displayed here is correct and up to date, 
+	we are not liable for any errors and it is your responsibility to check the Football odds with the bookmaker before placing a bet.
+</p>
+<noscript>
+    <div id="noJavascript">
+        <p class="robots-nocontent">Your browser does not support Javascript or you have Javascript disabled. Some features of this site will be unavailable.</p>
+    </div>
+</noscript>
+
+							<noscript>
+								<div id="noJavascript">
+									<p>Your browser does not support Javascript or you have Javascript disabled. Some features of this site will be unavailable.</p>
+								</div>
+							</noscript>
+							
+						</div>
+						<div id="footer">
+						&copy; Football-Data. <a href="http://www.football-data.co.uk/disclaimer.php">Liability Disclaimer</a>. <a href="http://www.football-data.co.uk/privacy.php">Privacy Policy</a>. All Rights Reserved.
+						<a href="/help/tos">Terms of Service</a>
+						</div>
+					</div>
+                </td>
+            </tr>
+        </table>                
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript" defer="defer">
+		    //<![CDATA[
+			_uacct = "UA-425479-33";
+			urchinTracker();
+			
+	
+
+			culture = 'en';
+			serverTimeZone = 'BST';
+		    //]]>
+		</script>
+		<!-- VM-BBWEB3 -->
+		<!--
+            
+	
+
+            
+	
+
+            
+	<iframe src='http://ff.connextra.com/Bestbetting/selector/client?client=Bestbetting&amp;placement=MatchXtra_BB_Strategy_160x600' width='160' height='600' scrolling='no' frameborder='0' style='border-width:0'></iframe>
+
+            
+        -->
+	</body>
+</html> 
